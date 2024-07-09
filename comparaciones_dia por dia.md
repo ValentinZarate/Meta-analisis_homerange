@@ -150,7 +150,7 @@
 |-----|------------------------|-----------|---------------|
 | 12b  | Sylvilagus floridanus  | USA      | Natural  |
 
-**Comentarios:** _Only '24 %' were agricultural, in the disturbed study all area was covered by agriculture. Breeding season was 1 feb - 30 sept (spr-sum), non breeding season 1 oct - 31 jan (aut-win). Po Plain in Italy is likely more intensely cultivated compared to the Black Prairie in Mississippi, which still retains significant portions of natural prairie and forest cover. This difference can provide a meaningful comparison of how varying intensities of agricultural practices affect the home ranges of cottontail rabbits._
+**Comentarios:** _Only '24 %' were agricultural, in the disturbed study all area was covered by agriculture. Breeding season was 1 feb - 30 sept (spr-sum), non breeding season 1 oct - 31 jan (aut-win). Po Plain in Italy is likely more intensely cultivated compared to the Black Prairie in Mississippi, which still retains significant portions of natural prairie and forest cover. This difference can provide a meaningful comparison of how varying intensities of agricultural practices affect the home ranges of cottontail rabbits_
 
 - **Enlace:** [The Journal of Wildlife Management](https://www.sci-hub.wf/10.2307/3803049)
 
