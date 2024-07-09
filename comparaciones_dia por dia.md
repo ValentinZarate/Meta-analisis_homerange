@@ -153,13 +153,13 @@
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
-| 12  | Sylvilagus floridanus | Italy  | Agricultura |
+| 13  | Sylvilagus floridanus | Italy  | Agricultura |
 
 **Literatura**
 
 | ID  | Especie                | País      | Uso del suelo |
 |-----|------------------------|-----------|---------------|
-| 12b  | Sylvilagus floridanus  | USA      | Natural  |
+| 13b  | Sylvilagus floridanus  | USA      | Natural  |
 
 **Comentarios:** _Only '24 %' were agricultural, in the disturbed study all area was covered by agriculture. Breeding season was 1 feb - 30 sept (spr-sum), non breeding season 1 oct - 31 jan (aut-win). Po Plain in Italy is likely more intensely cultivated compared to the Black Prairie in Mississippi, which still retains significant portions of natural prairie and forest cover. This difference can provide a meaningful comparison of how varying intensities of agricultural practices affect the home ranges of cottontail rabbits_
 
@@ -172,12 +172,53 @@
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
-| 12  | Sylvilagus floridanus | Italy  | Agricultura |
+| 13  | Lepus europaeus | Italy  | Agricultura |
 
 **Literatura**
 
 | ID  | Especie                | País      | Uso del suelo |
 |-----|------------------------|-----------|---------------|
-| 12b  | Sylvilagus floridanus  | USA      | Natural  |
+| 13c  | Lepus europaeus  | Netherlands     | Natural  |
 
-**Comentarios:** _Only '24 %' were agricultural, in the disturbed study all area was covered by agriculture. Breeding season was 1 feb - 30 sept (spr-sum), non breeding season 1 oct - 31 jan (aut-win). Po Plain in Italy is likely more intensely cultivated compared to the Black Prairie in Mississippi, which still retains significant portions of natural prairie and forest cover. This difference can provide a meaningful comparison of how varying intensities of agricultural practices affect the home ranges of cottontail rabbits._
+**Comentarios:** _Have to decide… differences in ecorregion might be affecting home ranges of hares, The comparison is 13c because study 13 include home ranges of both cottontail rabbits and hares._
+
+- **Enlace:** [Acta Theriologica](https://www.sci-hub.wf/10.1007/bf03192435)
+
+</details>
+
+<details>
+<summary> 🟢 Estudio 11</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 13.5  | Lepus europaeus | Hungary  | Agricultura |
+
+**Literatura**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 13.5b | Lepus europaeus  | Netherlands     | Natural  |
+
+**Comentarios:** _Obtained for Kunst et al. (2001). It is the closer and similar study, both analyse 2 breeding seasons._
+
+- **Enlace:** [Acta Theriologica](https://www.sci-hub.wf/10.1007/bf03192435)
+
+
+</details>
+
+<details>
+<summary> 🟡 Estudio 12</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 15  | Cuniculus paca| Bolivia  | Agricultura |
+
+**Literatura**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 15b | Cuniculus paca | Belize     | Natural  |
+
+**Comentarios:** _Check type of natural place, both jungle with parts of grassland. In Gutierrez et al. (2016) the study area included agricultural areas but only the '4%' of the total area, and pacas didn't use them._
+
+- **Enlace:** [Journal of Mammalogy](https://www.sci-hub.wf/10.1093/jmammal/gyw179)
