@@ -105,7 +105,7 @@
 </details>
 
 <details>
-<summary><span style="color:red;">Estudio 7</span></summary>
+<summary>🔴 **Estudio 7**</summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
