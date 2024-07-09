@@ -263,6 +263,8 @@
 
 </details>
 
+## Día: 08/07/2024
+
 <details>
 <summary> 🟢 Estudio 15</summary>
 
@@ -349,7 +351,7 @@
 </details>
 
 <details>
-<summary> 🟢 Estudio 19</summary>
+<summary> 🟢 Estudio 20</summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
