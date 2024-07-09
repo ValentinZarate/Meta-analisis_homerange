@@ -1,8 +1,8 @@
 # Paso a paso en la busqueda de comparaciones para realizar el meta-analisis
 
-#### 🟢 El estudio tiene una comparación adecuada y se puede estimar el tamaño del efecto
-#### 🟡 El estudio tiene una comparación potencial pero debe discutirse o debe solicitarse en MoveBank
-#### 🔴 El estudio no tiene una comparación adecuada y debe ser descartado
+🟢 El estudio tiene una comparación adecuada y se puede estimar el tamaño del efecto
+🟡 El estudio tiene una comparación potencial pero debe discutirse o debe solicitarse en MoveBank
+🔴 El estudio no tiene una comparación adecuada y debe ser descartado
 
 
 ## Día: 04/07/2024
