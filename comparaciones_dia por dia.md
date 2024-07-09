@@ -222,3 +222,146 @@
 **Comentarios:** _Check type of natural place, both jungle with parts of grassland. In Gutierrez et al. (2016) the study area included agricultural areas but only the '4%' of the total area, and pacas didn't use them._
 
 - **Enlace:** [Journal of Mammalogy](https://www.sci-hub.wf/10.1093/jmammal/gyw179)
+
+</details>
+
+<details>
+<summary> 🟢 Estudio 13</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 16 | Glaucomys sabrinus| USA  | Forestry |
+
+**Literatura**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 16.5b | Glaucomys sabrinus| | USA   | Natural  |
+
+**Comentarios:** _ Estudio '13' y '14' tienen la misma contraparte natural, en el '13' el manejo forestal es más intentso pero no ocurren tan cerca, en el estudio '14' comparan bosques sin manejo hace 400 años vs bosque con manejo activo hace 40 años_
+
+- **Enlace:** [The Journal of Wildlife Management](https://www.sci-hub.wf/10.2307/3802512)
+
+</details>
+
+<details>
+<summary> 🟢 Estudio 14</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 16.5 | Glaucomys sabrinus| USA  | Forestry |
+
+**Literatura**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 16.5b | Glaucomys sabrinus| | USA   | Natural  |
+
+**Comentarios:** _ Estudio '13' y '14' tienen la misma contraparte natural, en el '13' el manejo forestal es más intentso pero no ocurren tan cerca, en el estudio '14' comparan bosques sin manejo hace 400 años vs bosque con manejo activo hace 40 años_
+
+- **Enlace:** [The Journal of Wildlife Management](https://www.sci-hub.wf/10.2307/3802512)
+
+</details>
+
+<details>
+<summary> 🟢 Estudio 15</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 19 |Ursus americanus       | USA  | agricultura |
+
+**Literatura**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 19b | Ursus americanus       | USA       | Natural       |
+
+**Comentarios:** _ The counterpart uses the MCP, so we extract that matric_
+
+- **Enlace:** [International Association for Bear Research and Management](https://www.sci-hub.wf/10.2307/3872720)
+
+
+</details>
+
+<details>
+<summary> 🔴 Estudio 16</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 21 |Procyon lotor     | USA  | agricultura |
+
+#### not comparison but see Estudio 17
+
+
+</details>
+
+<details>
+<summary> 🟢 Estudio 17</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 21.5 |Procyon lotor         | USA   | agricultura |
+
+**Literatura**
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 21.5b |Procyon lotor         | USA   | natural |
+
+
+- **Enlace:** [PhD Thesis - The Pennsylvania State University](http://www.carnivoreconservation.org/files/thesis/compton_2007_phd.pdf)
+
+
+</details>
+
+<details>
+<summary> 🟢 Estudio 18</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 22 |Chlorocebus djamdjamensis  | Ethiopia | agricultura |
+| 22 |Chlorocebus djamdjamensis    | Ethiopia   | natural |
+
+
+**Comentarios:** _Dentro del mismo estudio_
+
+</details>
+
+<details>
+<summary> 🟡 Estudio 19</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 24 |Canis latrans | USA| agricultura |
+
+**Literatura**
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 24.5b |Canis latrans         | USA| narural |
+
+
+**Comentarios:** _Using the supporting data we recalculate the home ranges of the packs that had less than '5%' of agriculture within their HR, nor other type of antropogenic land use. Check smoothing parameter comparison_
+
+- **Enlace:** [PlosOne](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0203703#:~:text=Coyote%20use%20of%20prey%20was,of%20rabbits%20(Sylvilagus%20spp.))
+
+
+</details>
+
+<details>
+<summary> 🟢 Estudio 19</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 24.5 |Canis latrans | USA| agricultura |
+
+**Literatura**
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 24.5b |Canis latrans         | USA| natural |
+
+
+**Comentarios:** _Using the supporting data we recalculate the home ranges of the packs that had less than '5%' of agriculture within their HR, nor other type of antropogenic land use_
+
+- **Enlace:** [PlosOne](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0203703#:~:text=Coyote%20use%20of%20prey%20was,of%20rabbits%20(Sylvilagus%20spp.))
