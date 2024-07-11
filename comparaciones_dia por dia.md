@@ -420,7 +420,7 @@
 
 **Comentarios:** _no comments_
 
-- **Enlace:** [Mammal Study]([https://www.sci-hub.wf/10.1016/S1936-7961(08)00218-2](https://www.sci-hub.wf/10.3106/ms2017-0085))
+- **Enlace:** [Mammal Study](https://www.sci-hub.wf/10.3106/ms2017-0085)
 
 </details>
 
@@ -440,7 +440,7 @@
 
 **Comentarios:** _Difference on the method of collection (Radio tracking vs Direct Observation), but not problematic_
 
-- **Enlace:** [Mastozoología neotropical]([[https://www.sci-hub.wf/10.1016/S1936-7961(08)00218-2](https://www.sci-hub.wf/10.3106/ms2017-0085)](http://www.scielo.org.ar/scielo.php?script=sci_arttext&pid=S0327-93832009000100008))
+- **Enlace:** [Mastozoología neotropical](http://www.scielo.org.ar/scielo.php?script=sci_arttext&pid=S0327-93832009000100008)
 
 
 </details>
@@ -461,5 +461,5 @@
 
 **Comentarios:** _The authors conduct an experiment (poisson), we used the control group. In 'natural' the sexes are combiened but the authors did not found differences_
 
-- **Enlace:** [Wildlife Research]([[[https://www.sci-hub.wf/10.1016/S1936-7961(08)00218-2](https://www.sci-hub.wf/10.3106/ms2017-0085)](http://www.scielo.org.ar/scielo.php?script=sci_arttext&pid=S0327-93832009000100008)](https://www.sci-hub.wf/10.1071/WR09161))
+- **Enlace:** [Wildlife Research](https://www.sci-hub.wf/10.1071/WR09161)
 
