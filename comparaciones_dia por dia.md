@@ -463,3 +463,22 @@
 
 - **Enlace:** [Wildlife Research](https://www.sci-hub.wf/10.1071/WR09161)
 
+</details>
+
+<details>
+<summary> 🟡 Estudio 26</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 35 |  Cercartetus nanus     | Australia  | forestry  |
+
+**Literatura**
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 35b |Cercartetus nanus     | Australia   | natural       |
+
+
+**Comentarios:** _The full-text was requested to the authors through ResearchGate and by email. If the authors do not answer we can use study 35, before vs after logging_
+
+- **Enlace:** [Australian Mammalogy](https://www.researchgate.net/publication/369628233_Habitat_use_by_the_eastern_pygmy-possum_in_a_coastal_woodland-heathland_mosaic)
