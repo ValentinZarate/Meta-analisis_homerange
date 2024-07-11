@@ -2,7 +2,7 @@
 
 🟢 El estudio tiene una comparación adecuada y se puede estimar el tamaño del efecto.
 
-🟡 El estudio tiene una comparación potencial pero debe discutirse o debe solicitarse en MoveBank.
+🟡 El estudio tiene una comparación potencial pero debe discutirse o debe solicitarse en MoveBank o a los autores.
 
 🔴 El estudio no tiene una comparación adecuada y debe ser descartado.
 
