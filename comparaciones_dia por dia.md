@@ -367,3 +367,99 @@
 **Comentarios:** _Using the supporting data we recalculate the home ranges of the packs that had less than '5%' of agriculture within their HR, nor other type of antropogenic land use_
 
 - **Enlace:** [PlosOne](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0203703#:~:text=Coyote%20use%20of%20prey%20was,of%20rabbits%20(Sylvilagus%20spp.))
+
+</details>
+
+## Día: 11/07/2024
+
+<details>
+<summary> 🟢 Estudio 21</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 25 |Cervus canadensis | USA| agricultura |
+
+**Literatura**
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 25b |Cervus canadensis       | USA| natural |
+
+
+**Comentarios:** _As Barker et al. highlight that wolves are very scare in their area here I selected elks home ranges before wolves colonization_
+
+- **Enlace:** [Book: Terrestrial Ecology ](https://www.sci-hub.wf/10.1016/S1936-7961(08)00218-2)
+
+  
+</details>
+
+<details>
+<summary> 🔴 Estudio 22</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 25 |Aplodontia rufa | USA| forestry |
+
+**NO HAY CONTRAPARTE**
+
+</details>
+
+<details>
+<summary> 🟢 Estudio 23</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 29 |Odocoileus virginianus | USA| agricultura |
+
+**Literatura**
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 29b |Odocoileus virginianus       | USA| natural |
+
+
+**Comentarios:** _no comments_
+
+- **Enlace:** [Mammal Study]([https://www.sci-hub.wf/10.1016/S1936-7961(08)00218-2](https://www.sci-hub.wf/10.3106/ms2017-0085))
+
+</details>
+
+<details>
+<summary> 🟢 Estudio 24</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 33 |Oryzomys palustris      | USA   | agricultura   |
+
+**Literatura**
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 33b |Oryzomys palustris     | USA   | natural       |
+
+
+**Comentarios:** _Difference on the method of collection (Radio tracking vs Direct Observation), but not problematic_
+
+- **Enlace:** [Mastozoología neotropical]([[https://www.sci-hub.wf/10.1016/S1936-7961(08)00218-2](https://www.sci-hub.wf/10.3106/ms2017-0085)](http://www.scielo.org.ar/scielo.php?script=sci_arttext&pid=S0327-93832009000100008))
+
+
+</details>
+
+<details>
+<summary> 🟢 Estudio 25</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 34 |Trichosurus vulpecula     | Australia  | agricultura   |
+
+**Literatura**
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 34b |Trichosurus vulpecula   | New Zeland   | natural       |
+
+
+**Comentarios:** _The authors conduct an experiment (poisson), we used the control group. In 'natural' the sexes are combiened but the authors did not found differences_
+
+- **Enlace:** [Wildlife Research]([[[https://www.sci-hub.wf/10.1016/S1936-7961(08)00218-2](https://www.sci-hub.wf/10.3106/ms2017-0085)](http://www.scielo.org.ar/scielo.php?script=sci_arttext&pid=S0327-93832009000100008)](https://www.sci-hub.wf/10.1071/WR09161))
+
