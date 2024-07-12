@@ -482,3 +482,56 @@
 **Comentarios:** _The full-text was requested to the authors through ResearchGate and by email. If the authors do not answer we can use study 35, before vs after logging_
 
 - **Enlace:** [Australian Mammalogy](https://www.researchgate.net/publication/369628233_Habitat_use_by_the_eastern_pygmy-possum_in_a_coastal_woodland-heathland_mosaic)
+
+</details>
+
+## Día: 12/07/2024
+
+<details>
+<summary> 🟢 Estudio 27</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 37 | Ursus americanus       | USA| agricultura |
+| 37 | Ursus americanus       | USA| natural |
+
+
+**Comentarios:** _Bears in agriculture have less of the half of their home range with natural forest_
+
+</details>
+
+<details>
+<summary> 🟢 Estudio 28</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 39 | Odocoileus virginianus      | USA| agricultura |
+| 8 | Odocoileus virginianus       | USA| natural |
+
+
+**Comentarios:** _Comparison between the study of Grovenburg et al. (2009) and Koen et al. (2017), only carbondale population_
+
+</details>
+
+<details>
+<summary> 🟢 Estudio 29</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 39.5 | Odocoileus virginianus      | USA| agricultura |
+| 39.5 | Odocoileus virginianus       | USA| natural |
+
+**Comentarios:** _Inside the same study, comparison will be made between the more contrasting populations: Gettsyburg-Newark Lowland and Deep Valleys of Pensilvania_
+
+</details>
+
+<details>
+<summary> 🟢 Estudio 30</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 44 | Lynx rufus      | USA| agricultura |
+| 44b |Lynx rufus     | USA| natural |
+
+
+- **Enlace:** [ANIMAL BEHAVIOUR](https://www.sci-hub.wf/10.1016/j.anbehav.2005.08.005)
