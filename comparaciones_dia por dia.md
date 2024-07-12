@@ -1,8 +1,8 @@
 # Paso a paso en la busqueda de comparaciones para realizar el meta-analisis
 
-🟢 El estudio tiene una comparación adecuada y se puede estimar el tamaño del efecto.
+🟢 Los estudios tienen para hacer una comparación adecuada y se puede estimar el tamaño del efecto.
 
-🟡 El estudio tiene una comparación potencial pero debe discutirse o debe solicitarse en MoveBank o a los autores.
+🟡 Los estudios tienen una comparación potencial pero debe discutirse o debe solicitarse en MoveBank o a los autores.
 
 🔴 El estudio no tiene una comparación adecuada y debe ser descartado.
 
@@ -10,7 +10,7 @@
 ## Día: 04/07/2024
 
 <details>
-<summary> 🟡 Estudio 1</summary>
+<summary> 🟡 Comparación 1</summary>
 
 | ID | Especie       | País         | Uso del suelo  |
 |----|---------------|--------------|----------------|
@@ -26,7 +26,7 @@
 </details>
 
 <details>
-<summary> 🟢 Estudio 2</summary>
+<summary> 🟢 Comparación 2</summary>
 
 | ID | Especie       | País         | Uso del suelo  |
 |----|---------------|--------------|----------------|
@@ -42,7 +42,7 @@
 </details>
 
 <details>
-<summary> 🟢 Estudio 3</summary>
+<summary> 🟢 Comparación 3</summary>
 
 | ID | Especie         | País  | Uso del suelo  |
 |----|-----------------|-------|----------------|
@@ -63,7 +63,7 @@
 </details>
 
 <details>
-<summary> 🟢 Estudio 4</summary>
+<summary> 🟢 Comparación 4</summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
@@ -77,7 +77,7 @@
 </details>
 
 <details>
-<summary> 🟢 Estudio 5</summary>
+<summary> 🟢 Comparación 5</summary>
 
 | ID | Especie                | País      | Uso del suelo |
 |----|------------------------|-----------|---------------|
@@ -100,7 +100,7 @@
 ## Día: 05/07/2024
 
 <details>
-<summary> 🟢 Estudio 6</summary>
+<summary> 🟢 Comparación 6</summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
@@ -112,7 +112,7 @@
 </details>
 
 <details>
-<summary> 🔴 Estudio 7</summary>
+<summary> 🔴 Comparación 7</summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
@@ -127,7 +127,7 @@
 </details>
 
 <details>
-<summary> 🟢 Estudio 8</summary>
+<summary> 🟢 Comparación 8</summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
@@ -149,7 +149,7 @@
 ## Día: 07/07/2024
 
 <details>
-<summary> 🟢 Estudio 9</summary>
+<summary> 🟢 Comparación 9</summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
@@ -168,7 +168,7 @@
 </details>
 
 <details>
-<summary> 🟢 Estudio 10</summary>
+<summary> 🟢 Comparación 10</summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
@@ -187,7 +187,7 @@
 </details>
 
 <details>
-<summary> 🟢 Estudio 11</summary>
+<summary> 🟢 Comparación 11</summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
@@ -207,7 +207,7 @@
 </details>
 
 <details>
-<summary> 🟡 Estudio 12</summary>
+<summary> 🟡 Comparación 12</summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
@@ -226,7 +226,7 @@
 </details>
 
 <details>
-<summary> 🟢 Estudio 13</summary>
+<summary> 🟢 Comparación 13</summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
@@ -245,7 +245,7 @@
 </details>
 
 <details>
-<summary> 🟢 Estudio 14</summary>
+<summary> 🟢 Comparación 14</summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
@@ -266,7 +266,7 @@
 ## Día: 08/07/2024
 
 <details>
-<summary> 🟢 Estudio 15</summary>
+<summary> 🟢 Comparación 15</summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
@@ -286,7 +286,7 @@
 </details>
 
 <details>
-<summary> 🔴 Estudio 16</summary>
+<summary> 🔴 Comparación 16</summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
@@ -298,7 +298,7 @@
 </details>
 
 <details>
-<summary> 🟢 Estudio 17</summary>
+<summary> 🟢 Comparación 17</summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
@@ -317,7 +317,7 @@
 </details>
 
 <details>
-<summary> 🟢 Estudio 18</summary>
+<summary> 🟢 Comparación 18</summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
@@ -330,7 +330,7 @@
 </details>
 
 <details>
-<summary> 🟡 Estudio 19</summary>
+<summary> 🟡 Comparación 19</summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
@@ -351,7 +351,7 @@
 </details>
 
 <details>
-<summary> 🟢 Estudio 20</summary>
+<summary> 🟢 Comparación 20</summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
@@ -373,7 +373,7 @@
 ## Día: 11/07/2024
 
 <details>
-<summary> 🟢 Estudio 21</summary>
+<summary> 🟢 Comparación 21</summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
@@ -394,7 +394,7 @@
 </details>
 
 <details>
-<summary> 🔴 Estudio 22</summary>
+<summary> 🔴 Comparación 22</summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
@@ -405,7 +405,7 @@
 </details>
 
 <details>
-<summary> 🟢 Estudio 23</summary>
+<summary> 🟢 Comparación 23</summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
@@ -425,7 +425,7 @@
 </details>
 
 <details>
-<summary> 🟢 Estudio 24</summary>
+<summary> 🟢 Comparación 24</summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
@@ -446,7 +446,7 @@
 </details>
 
 <details>
-<summary> 🟢 Estudio 25</summary>
+<summary> 🟢 Comparación 25</summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
@@ -466,7 +466,7 @@
 </details>
 
 <details>
-<summary> 🟡 Estudio 26</summary>
+<summary> 🟡 Comparación 26</summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
@@ -488,7 +488,7 @@
 ## Día: 12/07/2024
 
 <details>
-<summary> 🟢 Estudio 27</summary>
+<summary> 🟢 Comparación 27</summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
@@ -501,12 +501,17 @@
 </details>
 
 <details>
-<summary> 🟢 Estudio 28</summary>
+<summary> 🟢 Comparación 28</summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
 | 39 | Odocoileus virginianus      | USA| agricultura |
-| 8 | Odocoileus virginianus       | USA| natural |
+
+**Literatura**
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 8 | Odocoileus virginianus      | USA| natural |
 
 
 **Comentarios:** _Comparison between the study of Grovenburg et al. (2009) and Koen et al. (2017), only carbondale population_
@@ -514,7 +519,7 @@
 </details>
 
 <details>
-<summary> 🟢 Estudio 29</summary>
+<summary> 🟢 Comparación 29</summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
@@ -526,12 +531,121 @@
 </details>
 
 <details>
-<summary> 🟢 Estudio 30</summary>
+<summary> 🟢 Comparación 30</summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
 | 44 | Lynx rufus      | USA| agricultura |
-| 44b |Lynx rufus     | USA| natural |
 
+**Literatura**
 
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 44b | Lynx rufus            | USA   | natural |
+
+**Comentarios:** _all hr were recalcuated to have annual home ranges_
 - **Enlace:** [ANIMAL BEHAVIOUR](https://www.sci-hub.wf/10.1016/j.anbehav.2005.08.005)
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 31</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 46 | Sylvilagus floridanus      | USA| agricultura |
+| 46 | Sylvilagus floridanus     | USA| natural |
+
+**Comentarios:** _In does not mention that cottontails consume crops, but it is likely that they do. In other studies cottontails are mention to consume crops in agricultural landscapes (see study 13).The Groton site (Bluff Point coastal Reserve) was a 7-ha patch within a 326-ha state-owned peninsula that consisted of mature upland hardwood forest dominating the central and northern portions of the reserve with coastal shrub_
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 32</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 46 | Sylvilagus transitionalis     | USA| agricultura |
+| 46 | Sylvilagus transitionalis     | USA| natural |
+
+**Comentarios:** _In does not mention that cottontails consume crops, but it is likely that they do. In other studies cottontails are mention to consume crops in agricultural landscapes (see study 13).The Groton site (Bluff Point coastal Reserve) was a 7-ha patch within a 326-ha state-owned peninsula that consisted of mature upland hardwood forest dominating the central and northern portions of the reserve with coastal shrub_
+
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 33</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 48 | Glaucomys volans     | Canada | forestry |
+| 48 | Glaucomys volans    | Canada | natural |
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 34</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 49 | Hystrix cristata     | Italy | agriculture |
+| 49 | Hystrix cristata    | Italy | natural |
+
+**Comentarios:** _mainly anevergreen Mediterranean “macchia” woodland (hereafter, EW), ina protected area (Maremma Regional Park) along the Tyrrheniancoast. Mediterranean“macchia” (i.e. a scrub type)_
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 35</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 50 | Meles meles            | Italy | agricultura |
+
+**Literatura**
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 50b | Meles meles            | Spain   | natural |
+
+**Comentarios:** _I use home ranges of animal (no differences between sexes) that live in the core area of the Doñana National Park_
+- **Enlace:** [Journal Of Animal Ecology]((https://www.sci-hub.wf/10.1046/j.1365-2656.2002.00617.x)
+
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 36</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 51 | Vulpes vulpes            | Italy | agricultura |
+
+**Literatura**
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 51b | Vulpes vulpes           | Italy   | natural |
+
+**Comentarios:** _Natural study was conducted in Maremma Natural Park, the home ranges were more extensive in time that for agriculture, see that_
+- **Enlace:** [Acta Theriologica]((https://rcin.org.pl/Content/12292/PDF/BI002_2613_Cz-40-2_Acta-T39-nr30-279-287_o.pdf)
+
+  </details>
+
+<details>
+<summary> 🟢 Comparación 37</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 52 | Odocoileus virginianus            | USA | agricultura |
+
+**Literatura**
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 8 | Odocoileus virginianus      | USA| natural |
+
+
+**Comentarios:** _Comparison between the study of Walter et al. (2009), only the Nebraska population (highest agricultural cover) and Koen et al. (2017), only carbondale population (highest natural forest cover)_
+
+
