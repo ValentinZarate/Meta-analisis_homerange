@@ -628,7 +628,7 @@
 | 51b | Vulpes vulpes           | Italy   | natural |
 
 **Comentarios:** _Natural study was conducted in Maremma Natural Park, the home ranges were more extensive in time that for agriculture, see that_
-- **Enlace:** [Acta Theriologica]((https://rcin.org.pl/Content/12292/PDF/BI002_2613_Cz-40-2_Acta-T39-nr30-279-287_o.pdf)
+- **Enlace:** [Acta Theriologica](https://rcin.org.pl/Content/12292/PDF/BI002_2613_Cz-40-2_Acta-T39-nr30-279-287_o.pdf)
 
   </details>
 
@@ -647,5 +647,25 @@
 
 
 **Comentarios:** _Comparison between the study of Walter et al. (2009), only the Nebraska population (highest agricultural cover) and Koen et al. (2017), only carbondale population (highest natural forest cover)_
+
+
+  </details>
+
+<details>
+<summary> 🟢 Comparación 38</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 53b | Sylvilagus aquaticus    | USA | forestry |
+
+**Literatura**
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 53b | Sylvilagus aquaticus       | USA| natural |
+
+
+**Comentarios:** _Check h smoothing. the authors test for differences between sexes but they did find statistical differences P ≥ 0.436. We included both_
+- **Enlace:** [Canadian Journal of Zoology](https://www.sci-hub.wf/10.1139/cjz-2017-0066)
 
 
