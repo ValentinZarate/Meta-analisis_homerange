@@ -591,7 +591,7 @@
 | 49 | Hystrix cristata     | Italy | agriculture |
 | 49 | Hystrix cristata    | Italy | natural |
 
-**Comentarios:** _mainly anevergreen Mediterranean “macchia” woodland (hereafter, EW), ina protected area (Maremma Regional Park) along the Tyrrheniancoast. Mediterranean“macchia” (i.e. a scrub type)_
+**Comentarios:** _mainly an evergreen Mediterranean “macchia” woodland  (i.e. a scrub type), in a protected area (Maremma Regional Park)_
 
 </details>
 
