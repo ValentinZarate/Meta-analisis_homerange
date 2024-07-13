@@ -733,3 +733,60 @@
 
 **Comentarios:** _na_
 
+</details>
+
+<details>
+<summary> 🟢 Comparación 44 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 64 | Lepus europaeus        | France   | agriculture |
+
+
+**Literatura**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 13.5b | Lepus europaeus  | Netherlands     | Natural  |
+
+**Comentarios:** _Check seasons_
+
+- **Enlace:** [Acta Theriologica](https://www.sci-hub.wf/10.1007/bf03192435)
+
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 45 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 66 | Ursus americanus      | USA   | agriculture |
+
+
+**Literatura**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 66b | Ursus americanus        | USA     | Natural  |
+
+**Comentarios:** _h smoothing differs, check relevance_
+
+- **Enlace:** [Western North American Naturalist] (https://www.sci-hub.wf/10.3398/064.074.0308)
+
+  
+</details>
+
+<details>
+<summary> 🟢 Comparación 46 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 67 | Propithecus diadema       | Madagascar | forestry |
+| 67 | Propithecus diadema       | Madagascar | natural |
+
+**Comentarios:** _na_
+
+
+
+
