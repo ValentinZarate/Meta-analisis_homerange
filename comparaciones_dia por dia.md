@@ -787,6 +787,64 @@
 
 **Comentarios:** _na_
 
+</details>
+
+<details>
+<summary> 🟡 Comparación 47 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 68 | Alouatta palliata     | Mexico   | agriculture |
 
 
+**MoveBank**
 
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 68b | Alouatta palliata   | Panama    | Natural  |
+
+**Comentarios:** _REquested to the owners through Movebank_
+
+- **Enlace:** [MoveBank: 	2245151440] (https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study2245151440)
+
+</details>
+
+<details>
+<summary> 🔴 Comparación 48 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 69 | Cervus nippon     | USA   | agriculture |
+
+**Comentarios:** _Few studies of sika deer in USA, there are more in their native distribution range, in Asia_
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 49 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 72 | Vulpes vulpes    | Australia   | agriculture |
+
+
+**MoveBank**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 72b | Vulpes vulpes   | Australia    | Natural  |
+
+**Comentarios:** _Downloaded from MoveBank_
+
+- **Enlace:** [MoveBank: 	444539014] (https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study444539014)
+
+</details>
+
+<details>
+<summary> 🔴 Comparación 50 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 75 | Macropus robustus      | Australia   |   agriculture |
+
+**Comentarios:** _There are few studies for this Macropus species_
