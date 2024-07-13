@@ -669,3 +669,67 @@
 - **Enlace:** [Canadian Journal of Zoology](https://www.sci-hub.wf/10.1139/cjz-2017-0066)
 
 
+</details>
+
+## Día: 13/07/2024
+
+<details>
+<summary> 🔴 Comparación 39</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 56 | Vulpes vulpes      | Germany | agricultura |
+
+
+**Comentarios:** _There are studies of vulpes vulpes, but climatic differneces are to high_
+
+
+</details>
+
+<details>
+<summary> 🔴 Comparación 40</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 56.5 | Vulpes vulpes      | Germany | agricultura |
+
+
+**Comentarios:** _There are studies of vulpes vulpes, but climatic differneces are to high_
+
+
+</details>
+
+<details>
+<summary> 🔴 Comparación 41</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 57 | Lepus europaeus      | Austria | agricultura |
+
+
+**Comentarios:** _Could be comparable to Germany study of complex landscpaes, but the ad hoc h method include to much noise_
+
+</details>
+
+<details>
+<summary> 🔴 Comparación 42</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 59 | Mustela putorius     | Luxemburgo | agricultura |
+
+
+**Comentarios:** _Couldn't find any studies on natural areas for this species, for no method of home range estimation_
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 43 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 61 | Glaucomys volans       | USA | forestry |
+| 61 | Glaucomys volans       | Italy | forestry |
+
+**Comentarios:** _na_
+
