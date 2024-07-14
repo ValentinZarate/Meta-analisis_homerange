@@ -848,3 +848,98 @@
 | 75 | Macropus robustus      | Australia   |   agriculture |
 
 **Comentarios:** _There are few studies for this Macropus species_
+
+</details>
+
+## Día: 14/07/2024
+
+<details>
+<summary> 🟢 Comparación 51 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 76 | Canis mesomelas    | South Africa   | agriculture |
+
+
+**MoveBank**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 76b | Canis mesomelas   | Namibia    | Natural  |
+
+**Comentarios:** _Black-backed jackal (canis mesomelas) and carcass location data were collected in Etosha National Park (ENP), Namibia. As scavengers, ENP jackals benefit from supplemental food (i.e. carcass) availability during seasonal anthrax outbreaks in the study area. BE CAREFUL WITH FOOD SUPLEMENTATION PERIODS_
+
+- **Enlace:** [MoveBank: 	304875150] (https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study304875150)
+
+</details>
+
+<details>
+<summary> 🟡 Comparación 52 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 78 | Leopardus guttulus   | Brazil   | agriculture |
+
+**Comentarios:** _PREGUNTAR TIRIIIIII_
+
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 53 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 78 | Puma yagouaroundi    | Brazil   | agriculture |
+
+
+**Literature**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 78c | Puma yagouaroundi    | Mexico    | Natural  |
+
+**Comentarios:** _See comparability. Both were conducted in subtropical areas with marked seasons and naturally deciduous forests. Caso (2013) includes some Guinea grass for cattle, but it is conserved (high portion of natural areas) in comparison to Kasper et al._
+
+- **Enlace:** [PhD Thesis] (http://predcons.org/pdf/publicaciones/002Predcons.pdf)
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 54 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 79 | Petauroides volans   | Australia   | forestry |
+
+
+**Literature**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 79b | Petauroides volans   | Australia   | natural  |
+
+**Comentarios:** _In both studies, individuals with less that 30 locs were excluded and home ranges recalculated, see details of the Hooges estimations on study 79._
+
+- **Enlace:** [Wildlife Research] (https://www.sci-hub.wf/10.1071/wr9960401)
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 55 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 81 | Chaetomys subspinosus   | Brazil   | agroforestry |
+
+
+**Literature**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 81b | Chaetomys subspinosus   | Brazil   | natural  |
+
+**Comentarios:** _Only use females, check the smoothing if it causes differences. Agroforestry correspond to a cacao shaded plantation_
+
+- **Enlace:** [Mammalian Biology] (https://www.sci-hub.wf/10.1016/j.mambio.2011.09.005)
+
