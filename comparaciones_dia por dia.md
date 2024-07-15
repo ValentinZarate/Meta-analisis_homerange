@@ -1048,3 +1048,85 @@
 **Comentarios:** _No comments_
 
 - **Enlace:** [Behavioral Ecology And Sociobiology](https://www.sci-hub.wf/10.1007/s00265-009-0761-2)
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 62 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 88.5 | Lynx rufus            | USA | agriculture |
+
+- **Enlace:** [MoveBank, ID:1088836380](https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study1088836380)
+
+**Both from movebank**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 88.5b | Lynx rufus    | USA | natural |
+
+**Comentarios:** _No comments_
+
+- **Enlace:** [MoveBank, ID:475878514](https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study475878514)
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 63 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 89 | Odocoileus virginianus   | USA | agriculture |
+
+
+**Literature**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 8   | Odocoileus virginianus   | USA | natural |
+
+**Comentarios:** _No comments_
+
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 64 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 90 | Odocoileus virginianus   | Germany | agriculture |
+| 90  | Odocoileus virginianus   | Germany | Complex |
+
+**Comentarios:** _Simple agriculture refers to agricultural landscapes that are homogeneous, meaning they lack structural diversity and typically have less vegetation cover. These landscapes usually consist of large, open areas with single crop types and few natural features like trees or hedges. In contrast, complex agriculture includes agricultural landscapes with greater structural diversity and spatial heterogeneity. These landscapes have more vegetation cover and feature a mix of different crop types (covering 50% of the area, vs the almost the total in simple ones), hedgerows, patches of forest, and other elements that increase habitat complexity. This diversity creates a more varied and resource-rich environment, somewhat similar to natural landscapes_
+
+</details>
+
+<details>
+<summary> 🔴 Comparación 65 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 91 | Apodemus sylvaticus  | Portugal | agriculture |
+
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 66 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 92 | Lepus americanus | Canada | forestry |
+
+
+**Literature**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 92b | Lepus americanus | Canada | natural |
+
+**Comentarios:** _Forestry study (92) differentiate two habitat withing the productive landscape: blocks and stips, as we wanted to test the overall effect of forestry practices we recalculated the weighted mean adn dispersion, unifying both habitats_
+
+- **Enlace:** [Journal of Mammalogy](https://drive.google.com/file/d/14yj2u9Pk34VwWUiAKaihP6Dx03skPszz/view)
