@@ -1009,3 +1009,42 @@
 **Comentarios:** _For lack of comparison I used the MCP 100%. The 85b was conducted in Fort Riley Military Reservation, which can be classified as a semi-natural area. It retains significant natural characteristics, particularly in its vegetative communities (tall and mixed grass prairies, woodlands), but it is also influenced by human activities associated with its use as a military installation._
 
 - **Enlace:** [Southwestern Naturalist] (https://www.sci-hub.wf/10.2307/3672526)
+
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 60 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 86 | Procyon lotor     | USA | agricultura |
+
+**Literature**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 21.5b | Procyon lotor  | USA  | natural  |
+
+**Comentarios:** _Comparison with Compton thesis. The smoothing parameter is not the same but check the cell grid_
+
+- **Enlace:** [PhD Thesis - The Pennsylvania State University](http://www.carnivoreconservation.org/files/thesis/compton_2007_phd.pdf)
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 61 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 87 | Phascolarctos cinereus    | Australia | forestry |
+
+**Literature**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 87b | Phascolarctos cinereus    | Australia | natural |
+
+**Comentarios:** _No comments_
+
+- **Enlace:** [Behavioral Ecology And Sociobiology] (https://www.sci-hub.wf/10.1007/s00265-009-0761-2)
