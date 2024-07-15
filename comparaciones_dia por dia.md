@@ -772,7 +772,7 @@
 
 **Comentarios:** _h smoothing differs, check relevance_
 
-- **Enlace:** [Western North American Naturalist] (https://www.sci-hub.wf/10.3398/064.074.0308)
+- **Enlace:** [Western North American Naturalist](https://www.sci-hub.wf/10.3398/064.074.0308)
 
   
 </details>
@@ -805,7 +805,7 @@
 
 **Comentarios:** _REquested to the owners through Movebank_
 
-- **Enlace:** [MoveBank: 	2245151440] (https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study2245151440)
+- **Enlace:** [MoveBank: 	2245151440](https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study2245151440)
 
 </details>
 
@@ -836,7 +836,7 @@
 
 **Comentarios:** _Downloaded from MoveBank_
 
-- **Enlace:** [MoveBank: 	444539014] (https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study444539014)
+- **Enlace:** [MoveBank: 	444539014](https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study444539014)
 
 </details>
 
@@ -869,7 +869,7 @@
 
 **Comentarios:** _Black-backed jackal (canis mesomelas) and carcass location data were collected in Etosha National Park (ENP), Namibia. As scavengers, ENP jackals benefit from supplemental food (i.e. carcass) availability during seasonal anthrax outbreaks in the study area. BE CAREFUL WITH FOOD SUPLEMENTATION PERIODS_
 
-- **Enlace:** [MoveBank: 	304875150] (https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study304875150)
+- **Enlace:** [MoveBank: 	304875150](https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study304875150)
 
 </details>
 
@@ -901,7 +901,7 @@
 
 **Comentarios:** _See comparability. Both were conducted in subtropical areas with marked seasons and naturally deciduous forests. Caso (2013) includes some Guinea grass for cattle, but it is conserved (high portion of natural areas) in comparison to Kasper et al._
 
-- **Enlace:** [PhD Thesis] (http://predcons.org/pdf/publicaciones/002Predcons.pdf)
+- **Enlace:** [PhD Thesis](http://predcons.org/pdf/publicaciones/002Predcons.pdf)
 
 </details>
 
@@ -921,7 +921,7 @@
 
 **Comentarios:** _In both studies, individuals with less that 30 locs were excluded and home ranges recalculated, see details of the Hooges estimations on study 79._
 
-- **Enlace:** [Wildlife Research] (https://www.sci-hub.wf/10.1071/wr9960401)
+- **Enlace:** [Wildlife Research](https://www.sci-hub.wf/10.1071/wr9960401)
 
 </details>
 
@@ -941,7 +941,7 @@
 
 **Comentarios:** _Only use females, check the smoothing if it causes differences. Agroforestry correspond to a cacao shaded plantation_
 
-- **Enlace:** [Mammalian Biology] (https://www.sci-hub.wf/10.1016/j.mambio.2011.09.005)
+- **Enlace:** [Mammalian Biology](https://www.sci-hub.wf/10.1016/j.mambio.2011.09.005)
 
 </details>
 
@@ -1008,7 +1008,7 @@
 
 **Comentarios:** _For lack of comparison I used the MCP 100%. The 85b was conducted in Fort Riley Military Reservation, which can be classified as a semi-natural area. It retains significant natural characteristics, particularly in its vegetative communities (tall and mixed grass prairies, woodlands), but it is also influenced by human activities associated with its use as a military installation._
 
-- **Enlace:** [Southwestern Naturalist] (https://www.sci-hub.wf/10.2307/3672526)
+- **Enlace:** [Southwestern Naturalist](https://www.sci-hub.wf/10.2307/3672526)
 
 
 </details>
