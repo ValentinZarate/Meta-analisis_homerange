@@ -943,3 +943,69 @@
 
 - **Enlace:** [Mammalian Biology] (https://www.sci-hub.wf/10.1016/j.mambio.2011.09.005)
 
+</details>
+
+## Día: 15/07/2024
+
+<details>
+<summary> 🟢 Comparación 56 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 82 | Glaucomys volans     | USA | agricultura |
+
+**Literature**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 68 | Glaucomys volans  | USA   | natural  |
+
+**Comentarios:** _Natural home ranges extracted from a study that includes a forestry vs natural old forest_
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 57 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 83 | Nyctereutes procyonoides     | Germany | agricultura |
+
+**Literature**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 84 | Nyctereutes procyonoides | Estonia  | natural  |
+
+**Comentarios:** _The authors divide the periods according to the biology of Raccon Dogs. Autumn will correspond to fat storage stage, and summer to pup rearing. Also, in study 83 the authors present a complete table with potential comparisons, Jedrzejewska y Jedrzejewski (1998) was a good option, using MCP of both studies. However the study of Slud et al. (2017) in Estonia - Soomaa National Park was conducted in a more similar ecoregion, and with KDE_
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 58 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 84 | Nyctereutes procyonoides     | Estonia | agricultura |
+| 84 | Nyctereutes procyonoides | Estonia  | natural  |
+
+**Comentarios:** _Comparison made in the study_
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 59 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 85 | Didelphis virginiana     | USA | agricultura - urban |
+
+**Literature**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 85b | Didelphis virginiana | USA  | natural  |
+
+**Comentarios:** _For lack of comparison I used the MCP 100%. The 85b was conducted in Fort Riley Military Reservation, which can be classified as a semi-natural area. It retains significant natural characteristics, particularly in its vegetative communities (tall and mixed grass prairies, woodlands), but it is also influenced by human activities associated with its use as a military installation._
+
+- **Enlace:** [Southwestern Naturalist] (https://www.sci-hub.wf/10.2307/3672526)
