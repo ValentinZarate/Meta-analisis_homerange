@@ -1127,6 +1127,43 @@
 |-----|------------------------|-----------|---------------|
 | 92b | Lepus americanus | Canada | natural |
 
-**Comentarios:** _Forestry study (92) differentiate two habitat withing the productive landscape: blocks and stips, as we wanted to test the overall effect of forestry practices we recalculated the weighted mean adn dispersion, unifying both habitats_
+**Comentarios:** _Forestry study (92) differentiates two habitats within the productive landscape: blocks and strips. As we wanted to test the overall effect of forestry practices, we recalculated the weighted mean and dispersion, unifying both habitats._
 
 - **Enlace:** [Journal of Mammalogy](https://drive.google.com/file/d/14yj2u9Pk34VwWUiAKaihP6Dx03skPszz/view)
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 67 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 93 | Lepus americanus | New Zeland | agriculture |
+
+
+**Literature**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 34b | Lepus americanus | New Zeland | natural |
+
+**Comentarios:** _In natural area I used only the vaccinated populations (control)_
+
+
+</details>
+
+<details>
+<summary> 🟡 Comparación 68 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 94 | Nycticebus javanicus | Indonesia | agriculture |
+
+
+**Literature**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 94b | Nycticebus javanicus  | Indonesia | natural |
+
+**Comentarios:** _Look for a better comparison_
