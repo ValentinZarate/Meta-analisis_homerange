@@ -1241,4 +1241,32 @@ https://www.sci-hub.wf/10.1016/j.anbehav.2006.11.017
 **Comentarios:** _Check the distances between study areas_
 - **Enlace:** [Proceeding B](https://www.researchgate.net/publication/349769465_Evidence_of_economical_territory_selection_in_a_cooperative_carnivore]
 
-  
+ </details>
+
+<details>
+<summary> 🟢  Comparación 73 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 100 | Ursus arctos    | Canada   | forestry |
+
+**Literature**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 100b | Ursus arctos   | USA | natural |
+
+**Comentarios:** __
+- **Enlace:** [Ursus](https://www.sci-hub.wf/10.2192/1537-6176(2005)016[0181:hramof]2.0.co;2)
+
+</details>
+
+<details>
+<summary> 🔴 Comparación 74 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 101 | Neovison vison   | USA   | agriculture |
+
+**Comentarios:** _no comparisons, nor even with other estimation methods_
+
