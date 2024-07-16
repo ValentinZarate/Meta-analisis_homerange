@@ -1153,7 +1153,7 @@
 </details>
 
 <details>
-<summary> 🟡 Comparación 68 </summary>
+<summary> 🔴 Comparación 68 </summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
@@ -1166,4 +1166,79 @@
 |-----|------------------------|-----------|---------------|
 | 94b | Nycticebus javanicus  | Indonesia | natural |
 
-**Comentarios:** _Look for a better comparison_
+**Comentarios:** _Anna Nekaris confirmed that there are no studies of Javan Lorises in natural areas. This one present huge home ranges because the lorises never settle (individuals were traslocated to the reserve)._
+
+</details>
+
+## Día: 16/07/2024
+
+<details>
+<summary> 🟡  Comparación 69 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 96 | Lepus europaeus | United kingdom | agriculture |
+
+
+**Literature**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 90 | Lepus europaeus  | Germany | complex |
+
+**Comentarios:** _Discuss if complex agricultural landscape are contrast enough._
+
+
+
+</details>
+
+<details>
+<summary> 🟢  Comparación 70 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 97 | Ursus americanus       | USA   | forestry |
+
+
+**Literature**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 97b |Ursus americanus | USA | natural |
+
+**Comentarios:** _Only females_
+https://www.sci-hub.wf/10.1016/j.anbehav.2006.11.017
+- **Enlace:** [Animal Behaviour](https://www.sci-hub.wf/10.1016/j.anbehav.2006.11.017)
+
+
+</details>
+
+<details>
+<summary> 🟢  Comparación 71 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 98 | Wallabia bicolor      | Australia   | forestry |
+| 98 | Wallabia bicolor      | Australia   | natural |
+
+**Comentarios:** _All locations, using control populations vs 'recent harvested' population_
+
+</details>
+
+<details>
+<summary> 🟢  Comparación 72 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 99 | Canis lupus     | USA   | agriculture |
+
+**Literature**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 99b | Canis lupus   | USA | natural |
+
+**Comentarios:** _Check the distances between study areas_
+- **Enlace:** [Proceeding B](https://www.researchgate.net/publication/349769465_Evidence_of_economical_territory_selection_in_a_cooperative_carnivore]
+
+  
