@@ -1270,3 +1270,115 @@ https://www.sci-hub.wf/10.1016/j.anbehav.2006.11.017
 
 **Comentarios:** _no comparisons, nor even with other estimation methods_
 
+</details>
+
+## 17/07/2024
+
+<details>
+<summary> 🟢 Comparación 75 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 102 | Trichosurus vulpecula   | New Zeland   | agriculture |
+
+**Literature**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 34b | Trichosurus vulpecula   | New Zeland  | natural |
+
+**Comentarios:** _The authors conduct an experiment (poisson), we used the control group. In 'natural' the sexes are combiened but the authors did not found differences_
+
+- **Enlace:** [Wildlife Research](https://www.sci-hub.wf/10.1071/WR09161)
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 76 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 102 | Trichosurus vulpecula   | New Zeland   | agriculture |
+
+**Literature**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 34b | Trichosurus vulpecula   | New Zeland  | natural |
+
+**Comentarios:** _The authors conduct an experiment (poisson), we used the control group. In 'natural' the sexes are combiened but the authors did not found differences_
+
+- **Enlace:** [Wildlife Research](https://www.sci-hub.wf/10.1071/WR09161)
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 77 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 105 | Sus scrofa   | USA  | agriculture |
+
+**Literature**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 105b | Sus scrofa   | USA  | natural |
+
+**Comentarios:** _Congaree National Park, South Carolina. Authors did not detected differences amogn seasons nor sexes_
+
+- **Enlace:** [Human-Wildlife Conflicts](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1028&context=hwi)
+
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 78 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 105 | Cervus canadensis   | USA  | agriculture |
+
+**Literature**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 106b | Cervus canadensis   | USA  | natural |
+
+**Comentarios:** _Only the data from Great Divide District of the Chequamegon National Forest, Wisconsin_
+
+- **Enlace:** [Landscape Ecology](https://sci-hub.wf/10.1007/s10980-005-0062-8)
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 79 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 107 | Vulpes velox  | USA  | agriculture |
+
+**Literature**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 107b | Vulpes velox   | USA  | natural |
+
+**Comentarios:** _Nighttime locations. Both studies include adult, juvenile, both sexes and only nighttime locations_
+
+- **Enlace:** [Canadian Journal of Zoology](https://sci-hub.wf/10.1139/Z02-009)
+
+</details>
+
+<details>
+<summary> 🔴 Comparación 80 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 108 | Herpestes ichneumon  | South Africa  | agriculture |
+| 108 | Ichneumia albicauda | South Africa  | agriculture |
+| 108 | Atilax paludinosus  | South Africa  | agriculture |
+
+**Comentarios:** _No studies in natural areas. However I wrote to the authors for guidence_
+
+
