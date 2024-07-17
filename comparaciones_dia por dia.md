@@ -1381,4 +1381,53 @@ https://www.sci-hub.wf/10.1016/j.anbehav.2006.11.017
 
 **Comentarios:** _No studies in natural areas. However I wrote to the authors for guidence_
 
+</details>
 
+<details>
+<summary> 🟢 Comparación 81 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 112 | Odocoileus virginianus| USA  | agriculture |
+
+**Literature**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 8  | Odocoileus virginianus | USA   | Natural       |
+
+**Comentarios:** _All the same except that in 112 include some subadult females, however authors assume that there are all the same, they test difference between sexes but unifying ages_ 
+
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 82 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 114 | Nyctereutes procyonoides| Japan  | agriculture |
+
+**Literature**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 114b  | Nyctereutes procyonoides| Japan   | Natural       |
+
+**Comentarios:** _All the same except that in 112 include some subadult females, however authors assume that there are all the same, they test difference between sexes but unifying ages_ 
+
+
+- **Enlace:** [Acta Theriol](https://sci-hub.wf/10.1007/s13364-010-0020-y)
+
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 83 </summary>
+
+
+
+**Comentarios:** _There are two agricultural landscapes, but one is much degradadted
+
+
+- **Enlace:** [Journal of Zoology](https://www.researchgate.net/publication/354970098_Habitat_specificity_drives_differences_in_space-use_patterns_of_multiple_mesocarnivores_in_an_agroecosystem)
