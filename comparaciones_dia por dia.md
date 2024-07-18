@@ -1664,3 +1664,57 @@ https://www.sci-hub.wf/10.1016/j.anbehav.2006.11.017
 - **Enlace:** [Journal of Mammalogy](https://www.sci-hub.wf/10.1644/09-MAMM-A-366.1)
 
 
+</details>
+
+<details>
+<summary> 🟢 Comparación 97 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 135 | Procyon lotor    | USA  | agriculture |
+
+**Literature**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 21.5b  |  Procyon lotor     | USA   | natural     |
+
+
+- **Enlace:** [Journal of Mammalogy](https://www.sci-hub.wf/10.1644/09-MAMM-A-366.1)
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 98 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 135.5 | Procyon lotor    | USA  | forestry |
+
+**Literature**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 21.5b  |  Procyon lotor     | USA   | natural     |
+
+
+- **Enlace:** [Journal of Mammalogy](https://www.sci-hub.wf/10.1644/09-MAMM-A-366.1)
+
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 99 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 136 | Bradypus variegatus   | Costa Rica  | agroforestry |
+
+**Literature**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 136b  |  Bradypus variegatus    | Brazil   | natural     |
+
+
+- **Enlace:** [Canadian Journal of Zoology](https://www.researchgate.net/publication/351923680_Where_to_go_when_all_options_are_terrible_Ranging_behavior_of_sloths_in_central_Amazonian_flooded_igapo_forests)
