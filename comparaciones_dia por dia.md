@@ -1058,7 +1058,7 @@
 |----|------------------------|-------|---------------|
 | 88.5 | Lynx rufus            | USA | agriculture |
 
-- **Enlace:** [MoveBank, ID:1088836380](https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study1088836380)
+- **Enlace:** [MoveBank, ID:475878514](https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study475878514)
 
 **Both from movebank**
 
@@ -1068,8 +1068,8 @@
 
 **Comentarios:** _No comments_
 
-- **Enlace:** [MoveBank, ID:475878514](https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study475878514)
-
+- **Enlace:** [MoveBank, ID:1088836380](https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study1088836380)
+  
 </details>
 
 <details>
@@ -1425,9 +1425,109 @@ https://www.sci-hub.wf/10.1016/j.anbehav.2006.11.017
 <details>
 <summary> 🟢 Comparación 83 </summary>
 
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 116 | Vulpes bengalensis    | India  | agriculture |
+
+**Literature**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 178  | Vulpes bengalensis   | India   | semi-natural     |
+
+**Comentarios:** _There are two agricultural landscapes, but one is much degradadted, the study is on the 'disturbed data set' and contains other two predators'-
+
+</details>
+
+<details>
+<summary> 🔴 Comparación 84 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 119 | Elaphurus davidianus   | China  | agriculture |
+
+**Comentarios:** _no comparisons, all studies are conducted in the same reserve. Extremly rare species, reintroduced and classify as 'extint in wildlife'.
 
 
-**Comentarios:** _There are two agricultural landscapes, but one is much degradadted
+</details>
+
+<details>
+<summary> 🟢 Comparación 85 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 120 | Martes martes    | Italy  | forestry |
+
+**Literature**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 120.5  |  Martes martes     | France   | natural     |
+
+**Comentarios:** _Comparison in France, The study contains a comparison between agricultural and natural, here I only use natural_
+
+- **Enlace:** [Journal of Mammalogy](https://www.sci-hub.wf/10.1644/09-MAMM-A-366.1)
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 86 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 120.5 | Martes martes    | France  | agriculture |
+
+**Literature**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 120.5  |  Martes martes     | France   | natural     |
+
+**Comentarios:** _In the study by Mergey et al., it is mentioned that European pine martens (Martes martes) do make use of the agricultural fields in fragmented habitats. Although they prefer forest fragments and hedgerows within these landscapes, they utilize these areas for shelter and foraging, allowing them to navigate and survive in the agricultural matrix of cereal fields and pastures​_
+
+- **Enlace:** [Journal of Mammalogy](https://www.sci-hub.wf/10.1644/09-MAMM-A-366.1)
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 87 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 121 | Lynx rufus            | USA | agriculture |
+
+**From movebank**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 88.5b | Lynx rufus    | USA | natural |
+
+**Comentarios:** _No comments_
+
+- **Enlace:** [MoveBank, ID:1088836380](https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study1088836380)
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 88 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 124 | Aplodontia rufa            | USA | forestry |
+| 124 | Aplodontia rufa   | USA | natural |
+
+**Comentarios:** _forestry home range Includes all periods and areas with forestry activities (preharvest, postharvest and herbicaides), and natural the control home ranges (no forestry practices)_
 
 
-- **Enlace:** [Journal of Zoology](https://www.researchgate.net/publication/354970098_Habitat_specificity_drives_differences_in_space-use_patterns_of_multiple_mesocarnivores_in_an_agroecosystem)
+
+</details>
+
+<details>
+<summary> 🔴 Comparación 88 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 126 |Antechinus flavipes         | Australia | forestry |
+
+**Comentarios:** _no comparisons_
+
