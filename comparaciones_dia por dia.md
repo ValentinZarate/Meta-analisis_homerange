@@ -1573,7 +1573,7 @@ https://www.sci-hub.wf/10.1016/j.anbehav.2006.11.017
 |----|------------------------|-------|---------------|
 | 131 |Bradypus torquatus        | Brazil | agroforestry |
 
-**From movebank**
+**literature**
 
 | ID  | Especie                | País      | Uso del suelo |
 |-----|------------------------|-----------|---------------|
@@ -1595,7 +1595,7 @@ https://www.sci-hub.wf/10.1016/j.anbehav.2006.11.017
 |----|------------------------|-------|---------------|
 | 132 |Prionailurus bengalensis      | Malaysia | agroforestry |
 
-**From movebank**
+**literature**
 
 | ID  | Especie                | País      | Uso del suelo |
 |-----|------------------------|-----------|---------------|
@@ -1614,7 +1614,7 @@ https://www.sci-hub.wf/10.1016/j.anbehav.2006.11.017
 |----|------------------------|-------|---------------|
 | 132.5 |Prionailurus bengalensis      | Indonesia | agroforestry |
 
-**From movebank**
+**literature**
 
 | ID  | Especie                | País      | Uso del suelo |
 |-----|------------------------|-----------|---------------|
@@ -1623,5 +1623,44 @@ https://www.sci-hub.wf/10.1016/j.anbehav.2006.11.017
 **Comentarios:** _oil plantations vs native forest_
 
 - **Enlace:** [Frontiers in Environmental Science](https://www.researchgate.net/publication/350110824_Activity_and_Ranging_Behavior_of_Leopard_Cats_Prionailurus_bengalensis_in_an_Oil_Palm_Landscape)
+
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 95 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 133 |Canis latrans   | USA | agriculture |
+
+**From movebank**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 133b | Canis latrans    | USA | natural |
+
+**Comentarios:** _Check type of vegetation of the natural area, and compare_
+
+- **Enlace:** [MoveBank, id:193545363](https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study193545363)
+
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 96 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 134 | Martes martes    | Ireland  | forestry |
+
+**Literature**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 120.5  |  Martes martes     | France   | natural     |
+
+
+- **Enlace:** [Journal of Mammalogy](https://www.sci-hub.wf/10.1644/09-MAMM-A-366.1)
 
 
