@@ -1605,7 +1605,7 @@ https://www.sci-hub.wf/10.1016/j.anbehav.2006.11.017
 
 - **Enlace:** [Journal of Zoology](https://www.sci-hub.wf/10.1017/S095283690500659X)
 
-
+</details>
 
 <details>
 <summary> 🟢 Comparación 94 </summary>
