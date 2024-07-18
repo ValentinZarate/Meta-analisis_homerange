@@ -1525,11 +1525,103 @@ https://www.sci-hub.wf/10.1016/j.anbehav.2006.11.017
 </details>
 
 <details>
-<summary> 🔴 Comparación 88 </summary>
+<summary> 🔴 Comparación 89 </summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
 | 126 |Antechinus flavipes         | Australia | forestry |
 
 **Comentarios:** _no comparisons_
+
+</details>
+
+<details>
+<summary> 🔴 Comparación 90 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 126 |Mustela nivalis        | italy | agriculture |
+
+**Comentarios:** _no comparisons_
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 91 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 128 | Capreolus capreolus           | Italy | agriculture |
+
+**From movebank**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 128b | Capreolus capreolus  | Italy | natural |
+
+**Comentarios:** _No comments_
+
+- **Enlace:** [MoveBank, ID:9480191](https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study9480191)
+
+ 
+</details>
+
+<details>
+<summary> 🟢 Comparación 92 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 131 |Bradypus torquatus        | Brazil | agroforestry |
+
+**From movebank**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 131b | Bradypus torquatus    | Brazil | natural |
+
+**Comentarios:** _MCP_
+
+- **Enlace:** [Journal of Zoology](https://d1wqtxts1xzle7.cloudfront.net/53041741/Activity_Btorquatus_Chiarello_JZool_1998-libre.pdf?1494243515=&response-content-disposition=inline%3B+filename%3DActivity_budgets_and_ranging_patterns_of.pdf&Expires=1721318241&Signature=bNGYZKp-mVbTIAjBBHGluY6s9FzMSQtN9f5OVggB0KpxsI3qXHrWivPjrCyXMMr17T2KgaEgWWwQIgfpmUiSpdImbf0Q-P1q8THsSMINwk5nRfKBmIMOTGVNuGxG5V5ogq3M2AJ6wrHXZR1c~HyFMtyTTWgn-56rrtB1xwd7O67Gm0BSj7VrsEscWFpSslrAgFSKUiMyU3M2KBlnaZJx8yfIAOFWGH~M-vzy6iHlGogqI60ZPXonlCdD7WP2O~1DqxTH59R2SyRqqAiw2~iHMHxlM2gFeCJdFF0EAahxpHNH3ojbEUFs15bXpnuMMB4SJu8~-8WMub5kUfZj3A1G0g__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+
+
+
+ 
+</details>
+
+<details>
+<summary> 🟢 Comparación 93 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 132 |Prionailurus bengalensis      | Malaysia | agroforestry |
+
+**From movebank**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 132b | Prionailurus bengalensis    | Thailand | natural |
+
+**Comentarios:** _oil plantations vs native forest_
+
+- **Enlace:** [Journal of Zoology](https://www.sci-hub.wf/10.1017/S095283690500659X)
+
+
+
+<details>
+<summary> 🟢 Comparación 94 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 132.5 |Prionailurus bengalensis      | Indonesia | agroforestry |
+
+**From movebank**
+
+| ID  | Especie                | País      | Uso del suelo |
+|-----|------------------------|-----------|---------------|
+| 132b | Prionailurus bengalensis    | Thailand | natural |
+
+**Comentarios:** _oil plantations vs native forest_
+
+- **Enlace:** [Frontiers in Environmental Science](https://www.researchgate.net/publication/350110824_Activity_and_Ranging_Behavior_of_Leopard_Cats_Prionailurus_bengalensis_in_an_Oil_Palm_Landscape)
+
 
