@@ -619,7 +619,7 @@
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
-| 51 | Vulpes vulpes            | Italy | agricultura |
+| 51 | Vulpes vulpes            | Italy | agriculture |
 
 **Literatura**
 
@@ -1742,7 +1742,7 @@ https://www.sci-hub.wf/10.1016/j.anbehav.2006.11.017
 |----|------------------------|-------|---------------|
 | 137 | Odocoileus virginianus  | USA | agriculture |
 
-**REQUESTED TO MOVEBANK: 1352148863**
+**COMPARISON REQUESTED TO MOVEBANK: 1352148863**
 
 **Enlace**: [MoveBank, id:1352148863](https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study1352148864)
 
@@ -1793,3 +1793,136 @@ https://www.sci-hub.wf/10.1016/j.anbehav.2006.11.017
 **Enlace**: [Wildlife Research](https://www.sci-hub.wf/10.1071/WR20134)
 
 
+</details>
+
+<details>
+<summary> 🟡 Comparación 105 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 140| Felis silvestris  | France | agriculture |
+**COMPARISON REQUESTED TO MOVEBANK: 	1131809299**
+
+**Enlace**: [MoveBank, id:1131809299]((https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study1131809299)
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 106 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 141| Martes foina  | Poland | agriculture |
+| 141| Martes foina  | Poland | natural |
+
+
+**Comments**: _authors differentiate according to the grade of isolation within a Forest, the high isolated will be consider as natural, they conclude 'home range sizes and space use strategies are significantly influenced by the degree of habitat isolation and the type of surrounding matrix. In highly isolated sites (HIS) within large forest complexes, martens had smaller home ranges, higher home range fidelity, and shorter dispersal distances. In less isolated sites (LIS) with a mosaic of agricultural and forest patches, martens had larger home ranges and greater movement. Thus, agricultural disturbance and habitat fragmentation increase home range sizes and affect space use and dispersal.'_
+
+**Enlace**: [Mammal Research](https://www.sci-hub.wf/10.1007/s13364-018-0397-6)
+
+
+</details>
+
+<details>
+<summary> 🟡 Comparación 107 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 142| Microtus arvalis  | Switzerland | agriculture |
+| 142.5| Microtus arvalis  | Denmark | natural |
+
+
+**Comments**: _Both use kernel 95% but the 142.5 did not clarify the smoothing parameter. Also check the differences between areas'. also the natural study is within a agricultural landscape but with large patches (strips) of wildflowers, voles use those strips almost exclusevily_
+
+
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 108 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 143| Glaucomys volans  | USA | forestry |
+| 143| Glaucomys volans  | USA | natural |
+
+
+**Comments**: _The authors concluded that squirrels in areas with active forestry practices had larger home ranges and lower fidelity to their home ranges compared to those in mature forests. This suggests that fragmentation and intensive forestry practices increase the home range size and negatively affect the habitat stability of southern flying squirrels​_
+
+</details>
+
+<details>
+<summary> 🔴 Comparación 111</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 144| Lepus europaeus       | Austria | agriculture |
+
+
+</details>
+
+<details>
+<summary> 🔴 Comparación 111</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 145| Chlorocebus pygerythrus    | South Africa | agriculture |
+
+
+
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 111</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 146 | Vulpes vulpes            | Italy | agriculture |
+
+**Literatura**
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 51b | Vulpes vulpes           | Italy   | natural |
+
+**Comentarios:** _Natural study was conducted in Maremma Natural Park, the home ranges were more extensive_
+
+- **Enlace:** [Acta Theriologica](https://rcin.org.pl/Content/12292/PDF/BI002_2613_Cz-40-2_Acta-T39-nr30-279-287_o.pdf)
+
+
+</details>
+
+<details>
+<summary> 🔴 Comparación 112</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 147| Urocyon cinereoargenteus         | USA | agriculture |
+
+</details>
+
+<details>
+<summary> 🔴 Comparación 113</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 148| Mephitis mephitis       | USA | agriculture |
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 114</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| n1 |Urocyon cinereoargenteus          | USA | agriculture |
+| n1 | Urocyon cinereoargenteus          | Italy   | natural |
+
+**Comentarios:** _Natural study was conducted in Maremma Natural Park, the home ranges were more extensive_
+
+- **Enlace:** [MSc Thesis](https://digitalcommons.humboldt.edu/cgi/viewcontent.cgi?article=1676&context=etd)
+
+
+
+https://digitalcommons.humboldt.edu/cgi/viewcontent.cgi?article=1676&context=etd
