@@ -1718,3 +1718,78 @@ https://www.sci-hub.wf/10.1016/j.anbehav.2006.11.017
 
 
 - **Enlace:** [Canadian Journal of Zoology](https://www.researchgate.net/publication/351923680_Where_to_go_when_all_options_are_terrible_Ranging_behavior_of_sloths_in_central_Amazonian_flooded_igapo_forests)
+
+
+</details>
+
+## 19/07/2024
+
+<details>
+<summary> 🔴 Comparación 100 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 136 | Choloepus hoffmannii  | Costa Rica  | agroforestry |
+
+**Comentarios**: _No studies in Natural areas using correct methods, there is an old study by Montgomery 1975, but the method is rare_
+
+</details>
+
+<details>
+<summary> 🟡 Comparación 101 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 137 | Odocoileus virginianus  | USA | agriculture |
+
+**REQUESTED TO MOVEBANK: 1352148863**
+
+**Enlace**: [MoveBank, id:1352148863](https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study1352148864)
+
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 102 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 138 | Puma concolor  | Canada | agriculture |
+
+
+**Enlace**: [Journal of Mammalogy](https://www.researchgate.net/publication/352977009_Space_use_of_cougars_at_the_northern_edge_of_their_range)
+
+**Literature**
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 138b | Puma concolor  | Canada | Natural |
+
+
+**Enlace**: [Journal of Animal Ecology](https://www.sci-hub.wf/10.1111/1365-2656.12447)
+
+</details>
+
+<details>
+<summary> 🔴 Comparación 103 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 139 | Elephantulus brachyrhynchus  | South Africa | agriculture |
+
+
+**Comentarios**: _no natural studies_
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 104 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 140.5 | Felis catus  | Australia | agriculture |
+| 140.5 | Felis catus  | Australia | Natural |
+
+**Enlace**: [Wildlife Research](https://www.sci-hub.wf/10.1071/WR20134)
+
+
