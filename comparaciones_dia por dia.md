@@ -1852,7 +1852,7 @@ https://www.sci-hub.wf/10.1016/j.anbehav.2006.11.017
 </details>
 
 <details>
-<summary> 🔴 Comparación 111</summary>
+<summary> 🔴 Comparación 109</summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
@@ -1862,7 +1862,7 @@ https://www.sci-hub.wf/10.1016/j.anbehav.2006.11.017
 </details>
 
 <details>
-<summary> 🔴 Comparación 111</summary>
+<summary> 🔴 Comparación 110</summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
