@@ -2195,3 +2195,18 @@ https://digitalcommons.humboldt.edu/cgi/viewcontent.cgi?article=1676&context=etd
 
 **Comentarios:** _I used only dry season because the natural study did not present males for the wet season. Check if the areas are good enough_ 
 
+  </details>
+
+<details>
+<summary> 🟢 Comparación 138 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 249 | Acinonyx jubatus | Botswana   | cattle and farmlands |
+| 249b | Acinonyx jubatus    | South Africa   | natural  |
+
+- **Enlace:** [PhD Thesis](https://repository.up.ac.za/handle/2263/29648)
+
+
+
+
