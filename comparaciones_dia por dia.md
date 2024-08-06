@@ -2180,3 +2180,18 @@ https://digitalcommons.humboldt.edu/cgi/viewcontent.cgi?article=1676&context=etd
 | 248b | Loxodonta africana    | Uganda   | natural  |
 
 - **Enlace:** [African Journal of Ecology](https://www.wellesu.com/10.1111/aje.12643)
+
+  </details>
+
+<details>
+<summary> 🟢 Comparación 138 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 249 | Panthera pardus | India   | agriculture |
+| 249b | Panthera pardus    | Thailand   | natural  |
+
+- **Enlace:** [Biological Conservation](https://www.wellesu.com/10.1016/j.biocon.2008.06.015)
+
+**Comentarios:** _I used only dry season because the natural study did not present males for the wet season. Check if the areas are good enough_ 
+
