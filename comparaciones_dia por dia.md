@@ -2198,7 +2198,7 @@ https://digitalcommons.humboldt.edu/cgi/viewcontent.cgi?article=1676&context=etd
   </details>
 
 <details>
-<summary> 🟢 Comparación 138 </summary>
+<summary> 🟢 Comparación 139 </summary>
 
 | ID | Especie                | País  | Uso del suelo |
 |----|------------------------|-------|---------------|
