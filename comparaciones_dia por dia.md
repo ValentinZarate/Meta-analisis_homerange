@@ -1967,7 +1967,7 @@ https://digitalcommons.humboldt.edu/cgi/viewcontent.cgi?article=1676&context=etd
 **Comentarios:** _Comparan AKDE (95%) de hembras de jabalí/chancho salvaje a través de distintos periodos reproductivos en un área bastante conservada con poca actividad industrial e infraestructura (pero dice sin acceso de humanos). Pero no hace ninguna comparación entre ambientes naturales y no naturales. Solo con GLMMs ve si hay distinto uso (pero no estimacion de HR). Sugieren que hay cultivos en los alrededores. Para contraste inclui los jabalis que solo tienne localizaciones dentro del parque nacional Congaree, discutir si es válido_ 
 
 
-- **Enlace:** [Human–Wildlife Conflicts] (https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1028&context=hwi)
+- **Enlace:** [Human–Wildlife Conflicts](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1028&context=hwi)
 
 </details>
 
@@ -2064,7 +2064,7 @@ https://digitalcommons.humboldt.edu/cgi/viewcontent.cgi?article=1676&context=etd
 | 132b | Prionailurus bengalensis         | Thailand  | natural       |
 
 
-- **Enlace:** [J.Zool.Lond] (https://www.wellesu.com/10.1017/s095283690500659x)
+- **Enlace:** [J.Zool.Lond](https://www.wellesu.com/10.1017/s095283690500659x)
 
 </details>
 
@@ -2111,7 +2111,7 @@ https://digitalcommons.humboldt.edu/cgi/viewcontent.cgi?article=1676&context=etd
 |----|------------------------|-------|---------------|
 | 240b | Lepus granatensis         | Spain   | natural   |
 
-- **Enlace:** [PhD Thesis] (https://www.researchgate.net/profile/Francisco-Carro-2/publication/316748430_HISTORIA_NATURAL_DE_LA_LIEBRE_IBERICA_Lepus_granatensis_Rosenhauer_1856_EN_EL_PARQUE_NACIONAL_DE_DONANA/links/5910987ba6fdccbfd5827b82/HISTORIA-NATURAL-DE-LA-LIEBRE-IBERICA-Lepus-granatensis-Rosenhauer-1856-EN-EL-PARQUE-NACIONAL-DE-DONANA.pdf)
+- **Enlace:** [PhD Thesis](https://www.researchgate.net/profile/Francisco-Carro-2/publication/316748430_HISTORIA_NATURAL_DE_LA_LIEBRE_IBERICA_Lepus_granatensis_Rosenhauer_1856_EN_EL_PARQUE_NACIONAL_DE_DONANA/links/5910987ba6fdccbfd5827b82/HISTORIA-NATURAL-DE-LA-LIEBRE-IBERICA-Lepus-granatensis-Rosenhauer-1856-EN-EL-PARQUE-NACIONAL-DE-DONANA.pdf)
 
 </details>
 
@@ -2167,7 +2167,7 @@ https://digitalcommons.humboldt.edu/cgi/viewcontent.cgi?article=1676&context=etd
 
 **Comentarios:** _discuss and justify the use of two different species. They were the same species until 1996. 
 
-- **Enlace:** [Primates] (https://www.wellesu.com/10.1007/s10329-009-0186-6)
+- **Enlace:** [Primates](https://www.wellesu.com/10.1007/s10329-009-0186-6)
 
 </details>
 
@@ -2179,4 +2179,4 @@ https://digitalcommons.humboldt.edu/cgi/viewcontent.cgi?article=1676&context=etd
 | 248 | Loxodonta africana  | Kenya   | agriculture |
 | 248b | Loxodonta africana    | Uganda   | natural  |
 
-- **Enlace:** [African Journal of Ecology] (https://www.wellesu.com/10.1111/aje.12643)
+- **Enlace:** [African Journal of Ecology](https://www.wellesu.com/10.1111/aje.12643)
