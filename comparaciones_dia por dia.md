@@ -1926,3 +1926,257 @@ https://www.sci-hub.wf/10.1016/j.anbehav.2006.11.017
 
 
 https://digitalcommons.humboldt.edu/cgi/viewcontent.cgi?article=1676&context=etd
+
+
+</details>
+
+## Día: 06/08/2024, los de la tana
+
+<details>
+<summary> 🟢 Comparación 117</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 218 | Bos gaurus     | Thailand | agricultura |
+| 218 | Bos gaurus     | Thailand | natural |
+
+**Comentarios:** _Comparan uso de distintos tipos de habitat (pero comparan bien dentro y fuera de area protegida), entre sexos y entre estaciones. Entre estaciones no fue significativo, asi que no lo diferencié. Para hembras y machos dentro y fuera de las areas protegidas, calculé mean y SE con el script de Valen a partir de la tabla A.4 (home range anual)._
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 118</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 219 | Prionailurus viverrinus        | Nepal | agriculture |
+| 219 | Prionailurus viverrinus          | Nepal   | natural |
+
+**Comentarios:** _Comparan AKDE (95%) para 4 hembras y 4 machos dentro y fuera de la reserva. Desglosando por sexo (que hay diferencia sign), van valores para 2 individuo por condición. Calculé media y SE con script de Valen. Pero no se si en estos casos (solo 2 individuos) tiene sentido esa métrica de variación o solo mejor poner el rango. Todos los cálculos los hice en base a la Tabla 1._
+
+</details>
+
+<details>
+<summary> 🟡 Comparación 119</summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 220 | Sus scrofa            | USA   | agriculture   |
+| 105b | Sus scrofa           | USA   | natural       |
+
+**Comentarios:** _Comparan AKDE (95%) de hembras de jabalí/chancho salvaje a través de distintos periodos reproductivos en un área bastante conservada con poca actividad industrial e infraestructura (pero dice sin acceso de humanos). Pero no hace ninguna comparación entre ambientes naturales y no naturales. Solo con GLMMs ve si hay distinto uso (pero no estimacion de HR). Sugieren que hay cultivos en los alrededores. Para contraste inclui los jabalis que solo tienne localizaciones dentro del parque nacional Congaree, discutir si es válido_ 
+
+
+- **Enlace:** [Human–Wildlife Conflicts] (https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1028&context=hwi)
+
+</details>
+
+<details>
+<summary> 🔴 Comparación 120 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 221| Notamacropus rufogriseus     | New Zeland | agriculture |
+
+**Comentarios:** _There aren´t studies in natural studies, only one in a Eucalyptus plantation. Might be contrasting but half of the study area is dominated by Eucalyptus plantations. I contated the authors to see if they are aware of any local study._
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 121 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 222 |Elephas maximus        | India | agriculture |
+
+**Literatura**
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 222b | Elephas maximus          | Thailand   | natural |
+
+**Comentarios:** _Estudio se hizo en un Santuario que forma parte de un continuo de áreas protegidas "the Nam Nao National Park to the north, Tat Mok National Park to the west, and Ta Bao-Huai Yai Wildlife Sanctuary to the southwest."_
+
+- **Enlace:** [PeerJ](https://peerj.com/articles/11896.pdf)
+
+</details>
+
+<details>
+<summary> 🔴 Comparación 122 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 223| Puma concolor    | Brazil | agriculture |
+
+**Comentarios:** _No hay comparaciones_
+
+</details>
+
+<details>
+<summary> 🔴 Comparación 123 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 224| Nycticebus javanicus    | Indonesia | agroforestry |
+
+**Comentarios:** _No hay comparaciones_
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 125 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 219 | Giraffa camelopardalis    | Uganda | agriculture |
+| 219 | Giraffa camelopardalis         | Uganda   | natural |
+
+**Comentarios:** _En supplementary material dan la data con todos los home ranges, incluyendo el tipo de habitat. Filtre por las jirafas en ambientes de croplands, luego busque las jirafas de la misma zona pero en un national park. Solo coincidían las hembras_
+
+- **Enlace:** [ProceedingsR](https://royalsocietypublishing.org/doi/10.1098/rspb.2023.0912)
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 126 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 228 | Sus scrofa            | USA   | agriculture   |
+| 105b | Sus scrofa           | USA   | natural       |
+
+**Comentarios:** __ 
+
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 127 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 230 | Prionailurus bengalensis          | Taiwan   | agriculture   |
+
+**Literatura**
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 132b | Prionailurus bengalensis         | Thailand  | natural       |
+
+
+- **Enlace:** [J.Zool.Lond] (https://www.wellesu.com/10.1017/s095283690500659x)
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 128 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 231 | Tayassu pecari        | Brazil   | agriculture   |
+| 231 | Tayassu pecari       | Brazil  | natural       |
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 129 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 232 | Macaca sylvanus     | Morrocco   | agriculture   |
+| 232 | Macaca sylvanus      | Algeria  | natural       |
+
+
+</details>
+
+<details>
+<summary> 🔴 Comparación 130 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 238 | Puma concolor         | Brazil   | agriculture   |
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 131 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 240 | Lepus granatensis         | Spain   | Forestry   |
+
+**Literature**
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 240b | Lepus granatensis         | Spain   | natural   |
+
+- **Enlace:** [PhD Thesis] (https://www.researchgate.net/profile/Francisco-Carro-2/publication/316748430_HISTORIA_NATURAL_DE_LA_LIEBRE_IBERICA_Lepus_granatensis_Rosenhauer_1856_EN_EL_PARQUE_NACIONAL_DE_DONANA/links/5910987ba6fdccbfd5827b82/HISTORIA-NATURAL-DE-LA-LIEBRE-IBERICA-Lepus-granatensis-Rosenhauer-1856-EN-EL-PARQUE-NACIONAL-DE-DONANA.pdf)
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 132 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 241 | Chrysocyon brachyurus    | Brazil   | agriculture |
+| 241 | Chrysocyon brachyurus       | Brazil   | natural  |
+
+
+</details>
+
+<details>
+<summary> 🔴 Comparación 133 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 242 | Myrmecophaga tridactyla   | Brazil   | forestry |
+
+**Comentarios:** _muy dificil encontrar estudios que sirvan como contraparte. Los trabajos que detecté fueron realizados en Pantanal (este es en el Cerrado) o en Iberá (por Yamil). El trabajo más apropiado en relación a la ecorregion es uno en los llanos de Colombia, pero tienen 1 macho y 1 hembra, una lástima.
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 134 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 241 | Polylepis subtusalbida    | Brazil   | agriculture |
+| 241 | Polylepis subtusalbida      | Brazil   | natural  |
+
+
+</details>
+
+<details>
+<summary> 🔴 Comparación 135 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 246 | Didelphis virginiana  | USA   | agriculture |
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 136 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 247 | Pongo abeli   | Indonesia   | agroforestry |
+| 247b | Pongo pygmeus     | Indonesia   | natural  |
+
+**Comentarios:** _discuss and justify the use of two different species. They were the same species until 1996. 
+
+- **Enlace:** [Primates] (https://www.wellesu.com/10.1007/s10329-009-0186-6)
+
+</details>
+
+<details>
+<summary> 🟢 Comparación 137 </summary>
+
+| ID | Especie                | País  | Uso del suelo |
+|----|------------------------|-------|---------------|
+| 248 | Loxodonta africana  | Kenya   | agriculture |
+| 248b | Loxodonta africana    | Uganda   | natural  |
+
+- **Enlace:** [African Journal of Ecology] (https://www.wellesu.com/10.1111/aje.12643)
