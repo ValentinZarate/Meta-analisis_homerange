@@ -4,6 +4,7 @@ This repository contains the data extraction, harmonization, and analysis workfl
 
 The analysis focuses on comparing home range estimates between natural and production landscapes using standardized effect sizes (Cohen’s *d*).
 
+Literature search was conducted using constumized workflow and R functions, more details in [Search Cycle](https://github.com/ValentinZarate/bib_functions/blob/main/Search%20Cylce/cylce.md)
 ---
 
 ## Study Scope
